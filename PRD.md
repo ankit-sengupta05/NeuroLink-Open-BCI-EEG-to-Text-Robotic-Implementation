@@ -50,7 +50,9 @@ Imagined speech is scientifically challenging because non-invasive EEG has low s
 
 ### The language-independent thought hypothesis
 
-Humans may think with the **same underlying intent** regardless of the language they use. What varies between individuals is the language medium chosen to express that thought. What cannot vary is the thought itself — which is fundamentally unique irrespective of whether a person is hearing, deaf, or mute. If this hypothesis holds, decoding intent from EEG at the pre-linguistic level becomes a more tractable goal than decoding surface language.
+Humans may think with the **same underlying intent** regardless of the language they use. What varies between individuals is the language medium chosen to express that thought. What cannot vary is the thought itself — which is fundamentally unique irrespective of whether a person is hearing, deaf, or mute.
+
+Because intent precedes language formulation in the brain, understanding these core intent patterns allows for **predictive speech decoding**. The system could prospectively predict what the user wants to say _before_ they even formulate the full sentence mentally. If this hypothesis holds, decoding intent from EEG at the pre-linguistic level becomes not only a more tractable goal than decoding surface language, but also a significantly faster and more universal communication method.
 
 ## 3. System Model
 

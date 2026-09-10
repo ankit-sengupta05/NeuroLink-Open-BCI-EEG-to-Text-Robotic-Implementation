@@ -26,6 +26,7 @@ Two models are required for research and scalability for the future:
 > _"We might think in different languages but we think with the same intent. What we say might vary, but what we think cannot � that is the thing that is fundamentally unique, whether you are deaf, dumb, etc."_
 
 - We first get a **thought**, and then we make a **language medium** to communicate that thought.
+- **Predictive Intent Understanding:** Because intent precedes language formulation, we can potentially predict the intended speech _before_ the user consciously puts it down into a sentence. By understanding the core patterns of intent, the model can predict the meaning directly from pre-linguistic EEG waves.
 - The research question: **What if we could communicate without the need of any language?**
   - This is a concept of research, not yet proven, but something we can actually implement.
 

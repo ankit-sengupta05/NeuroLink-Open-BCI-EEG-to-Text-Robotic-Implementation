@@ -57,7 +57,7 @@ The platform is designed around two distinct models:
 | **Model 1 — EEG-to-Text**      | Trained on labelled, formatted data to translate EEG wave patterns into raw text                 |
 | **Model 2 — Intent & Emotion** | Decrypts the underlying intent for each decoded statement and understands the associated emotion |
 
-The core hypothesis: humans think with the **same intent** regardless of language — what varies is the language medium used to express that thought. EEG may let us access intent before it is encoded into language.
+The core hypothesis: humans think with the **same intent** regardless of language — what varies is the language medium used to express that thought. Because this intent is formed _before_ being put down into a sentence, EEG may let us access and **predict the intended speech early**, directly from these universal pre-linguistic intent patterns.
 
 ## Prototype Form Factor
 
