@@ -114,7 +114,7 @@ def download_file_resumable(url, destination, max_retries=5):
                 print(f"Download incomplete for {os.path.basename(destination)}")
                 # Will retry in the next loop iteration
 
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001
             if attempt < max_retries - 1:
                 print(
                     f"\nError downloading {os.path.basename(destination)}: {e}. Retrying in 5s... ({attempt + 1}/{max_retries})"
