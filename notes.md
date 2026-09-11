@@ -4,6 +4,8 @@
 > Original images are stored locally in `assets/Notes/` and are **not** pushed to git.
 
 ---
+##Open-BCI-EEG-Waves-To-Text-Translation-And-further-Robotic-Implementaions
+
 
 ## Page 1 � Core Concepts
 
