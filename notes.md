@@ -5,11 +5,9 @@
 
 ---
 
-
 ## Open-BCI-EEG-Waves-To-Text-Translation-And-further-Robotic-Implementaions
 
-
-## Page 1 � Core Concepts
+## Page 1 — Core Concepts
 
 ### EEG Waves
 
@@ -25,9 +23,9 @@ Two models are required for research and scalability for the future:
 | **Model 1 (Initial)** | Gets labelled, formatted data for text translation from EEG waves          |
 | **Model 2 (Second)**  | Decrypts the **intent** for each statement and understands the **emotion** |
 
-### Reasoning � Language-Independent Thought
+### Reasoning — Language-Independent Thought
 
-> _"We might think in different languages but we think with the same intent. What we say might vary, but what we think cannot � that is the thing that is fundamentally unique, whether you are deaf, dumb, etc."_
+> _"We might think in different languages but we think with the same intent. What we say might vary, but what we think cannot — that is the thing that is fundamentally unique, whether you are deaf, dumb, etc."_
 
 - We first get a **thought**, and then we make a **language medium** to communicate that thought.
 - **Predictive Intent Understanding:** Because intent precedes language formulation, we can potentially predict the intended speech _before_ the user consciously puts it down into a sentence. By understanding the core patterns of intent, the model can predict the meaning directly from pre-linguistic EEG waves.
@@ -36,7 +34,7 @@ Two models are required for research and scalability for the future:
 
 ---
 
-## Page 2 � Requirements and Expectations
+## Page 2 — Requirements and Expectations
 
 ### Expectations
 
@@ -59,7 +57,7 @@ Two models are required for research and scalability for the future:
 
 ---
 
-## Page 3 � What Could the Prototype Look Like?
+## Page 3 — What Could the Prototype Look Like?
 
 ### Form Factor Options
 
@@ -78,17 +76,17 @@ For **commercial use**, the device can be morphed into everyday objects:
 
 | Partner                 | Area                                                                          |
 | ----------------------- | ----------------------------------------------------------------------------- |
-| **Emotiv**              | Hardware � existing EEG headset manufacturer                                  |
-| **OpenBCI Dev Kit**     | Hardware � open-source BCI hardware platform                                  |
-| **ElevenLabs (11labs)** | Voice � provides a vast variety of realistic human voices for voiceless users |
+| **Emotiv**              | Hardware — existing EEG headset manufacturer                                  |
+| **OpenBCI Dev Kit**     | Hardware — open-source BCI hardware platform                                  |
+| **ElevenLabs (11labs)** | Voice — provides a vast variety of realistic human voices for voiceless users |
 
 - For **voice output** (e.g., giving voice to the voiceless), we may partner with **ElevenLabs** which provides a vast variety of realistic human voices.
 
 ---
 
-## Page 4 � How Could the Dataset Look Like?
+## Page 4 — How Could the Dataset Look Like?
 
-### Ideal Dataset Structure � Chunked EEG + Transcripts
+### Ideal Dataset Structure — Chunked EEG + Transcripts
 
 The **best and ideal** way to chunk data:
 
@@ -126,9 +124,9 @@ Long EEG passage (User 3) ->  [EEG waves]
 
 ---
 
-## Page 5 � Training Process Idea
+## Page 5 — Training Process Idea
 
-### Core Idea � Generalise the Wave Pattern
+### Core Idea — Generalise the Wave Pattern
 
 - We **sample out multiple EEG waves for a given transcript** to generalise the wave pattern.
 - In human thoughts while reading, there are also **side thoughts** which might vary person to person.
@@ -144,7 +142,7 @@ Raw Noisy Data -> [User 1 wave] [User 2 wave] [User 3 wave] [User 4 wave]
 
 - Now, while in use: the wave form which is most similar to this generalised pattern will get the transcript of that wave.
 
-### Scaled / Creative Use Case � Transformer Architecture
+### Scaled / Creative Use Case — Transformer Architecture
 
 - We can also **train with a Transformer architecture model** and predict **n-byte chunks** of the wave.
 - Using **LSTM or Transformer architecture** will also help to **sustain longer context** and carry more meaning for each wave chunk.
