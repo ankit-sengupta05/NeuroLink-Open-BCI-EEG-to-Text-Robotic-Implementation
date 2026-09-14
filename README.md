@@ -40,6 +40,13 @@ EEG -> preprocessing -> representation learning -> transformer encoder
     -> text / intent -> task planner -> perception -> motion -> feedback
 ```
 
+### Data Architecture
+
+- **Storage:** Extracted data chunks must be saved as single `.npy` or `.npz` matrix files containing all channels `[channels, time_steps]`.
+  - ✅ **Recommended:** `dataset/extracted/subject<n>/<transcript>.npy`
+  - ❌ **Not Recommended:** `dataset/extracted/subject<n>/<transcript>/<node_name>.npy` (Splitting data by individual channels creates millions of small files, causing severe disk I/O bottlenecks during model training).
+- **Dimensions:** The current pipeline utilizes **105 channels** (standardized from ZuCo 2.0, where 23 artifact-prone facial/neck channels are removed from the original 128-channel recordings).
+
 ## Main scientific scope
 
 1. **EEG classification**: simple baselines like LEFT/RIGHT/YES/NO.

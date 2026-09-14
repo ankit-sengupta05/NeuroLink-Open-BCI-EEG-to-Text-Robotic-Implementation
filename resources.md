@@ -71,7 +71,10 @@ _(The EEG time-series arrays are already sliced into discrete trials or sentence
 A dataset of simultaneous EEG and eye-tracking data recorded while participants read natural sentences.
 
 - **Use Case:** Natural reading decoding, word-level and sentence-level text mapping.
-- **Data Structure:** Provided as Matlab `.mat` files containing cell arrays of structs.
+- **Data Structure:** Provided as Matlab `.mat` files containing cell arrays of structs. For ML pipelines, extracted chunks must be saved as a unified matrix:
+  - ✅ **Recommended:** `dataset/extracted/subject<n>/<transcript>.npy` (Matrix shape: `[channels, time_steps]`)
+  - ❌ **Not Recommended:** `dataset/extracted/subject<n>/<transcript>/<node_name>.npy` (Splitting by channel causes severe I/O bottlenecks).
+- **Channel Dimensions:** 105 channels. Although originally recorded with a 128-channel cap, 23 facial and neck channels are discarded during standard preprocessing to remove muscle and EOG artifacts.
 - **Transcript Mapping:** The continuous EEG data is precisely segmented by word boundaries using synchronized eye-tracking fixations.
 
 ### 2. JapanEEG (1000-hour Dataset)

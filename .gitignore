@@ -88,3 +88,6 @@ temp/
 
 # Private handwritten notes (do not push)
 assets/Notes/
+
+# Datasets
+dataset/

@@ -176,6 +176,26 @@ The ideal dataset format mirrors classical voice-to-text data structure:
 - **Multi-user same-transcript:** for each transcript, collect EEG from multiple users to generalise the wave pattern and reduce inter-subject noise (noise = individual side thoughts).
 - **Avoid bulk single-transcript mapping:** long passages mapped to a single bulk transcript cannot be reliably chunked and are not recommended.
 
+### Dataset Storage and Dimensions (Architecture)
+
+- **Storage Format:** Extracted chunks must be saved as single `.npy` or `.npz` files representing a 2D matrix of shape `[channels, time_steps]`.
+  - **Recommended structure:** `dataset/extracted/subject<n>/<transcript>.npy`
+  - **Prohibited structure:** `dataset/extracted/subject<n>/<transcript>/<node_name>.npy`
+
+#### Storage Approach Comparison
+
+| Metric                   | ✅ Unified Matrix Approach           | ❌ Split by Node Approach               |
+| :----------------------- | :----------------------------------- | :-------------------------------------- |
+| **Path Example**         | `subject1/fetch_water.npy`           | `subject1/fetch_water/Fp1.npy`          |
+| **Data Shape**           | `[105 channels, 500 time_steps]`     | `[500 time_steps]` per file             |
+| **Files per Transcript** | **1** file                           | **105** separate files                  |
+| **Disk I/O Speed**       | **Extremely Fast** (sequential read) | **Very Slow** (random seek bottlenecks) |
+| **OS File Overhead**     | Minimal                              | Massive (wasted block space)            |
+
+> **Note:** Splitting data across multiple files per channel is strictly prohibited due to severe file-system block-size overhead and I/O bottlenecks during model training.
+
+- **Channel Dimensions (ZuCo 2.0):** The system expects **105 channels**. Although recorded with a 128-channel high-density cap, 23 artifact-heavy channels (face/neck) are discarded during standard preprocessing.
+
 ### Training process (from research notes)
 
 ```
