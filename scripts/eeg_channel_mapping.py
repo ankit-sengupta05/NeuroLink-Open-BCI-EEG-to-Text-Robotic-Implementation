@@ -1,3 +1,14 @@
+# ==============================================================================
+# Copyright (c) 2026 Ankit Sengupta. All rights reserved.
+# 
+# This source code is licensed under the Research & Non-Commercial Attribution 
+# License (RNCA) found in the LICENSE file in the root directory of this project.
+# 
+# If you use, evaluate, or substantially derive from this code in an academic 
+# publication, you MUST provide appropriate citation to the original author 
+# and repository. See CITATION.cff for citation details.
+# ==============================================================================
+
 """
 ZuCo 2.0 EEG Channel Mapping Script
 
