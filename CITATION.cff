@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software in your academic research or scholarly work, please cite it as below."
+authors:
+  - family-names: "Sengupta"
+    given-names: "Ankit"
+title: "NeuroLink: Open-BCI EEG-to-Text & Robotic Implementation"
+version: 1.0.0
+date-released: 2026-09-15
+url: "https://github.com/ankit-sengupta05/NeuroLink-Open-BCI-EEG-to-Text-Robotic-Implementation"
+repository-code: "https://github.com/ankit-sengupta05/NeuroLink-Open-BCI-EEG-to-Text-Robotic-Implementation"
+license: "Research & Non-Commercial Attribution License (RNCA)"
+abstract: >-
+  A research platform exploring how non-invasive EEG can be decoded into constrained language, semantic intent, and eventually closed-loop robotic behavior.

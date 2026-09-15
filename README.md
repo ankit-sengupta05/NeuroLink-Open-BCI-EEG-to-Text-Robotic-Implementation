@@ -99,6 +99,19 @@ These reference images show the standard 10-20 system external electrode placeme
 - [setup-git2.cmd](setup-git2.cmd) — direct Windows setup launcher
 - [setup-git2.sh](setup-git2.sh) — direct shell launcher
 
+## Academic Use & Citation
+
+If this repository, its source code, algorithms, implementation, experimental methodology, or substantial portions of its contents are used in academic research, publications, conference papers, theses, dissertations, or other scholarly work, please cite this repository appropriately.
+
+Citation information is provided in `CITATION.cff`.
+
+Example:
+
+> Sengupta, A. (2026). NeuroLink: Open-BCI EEG-to-Text & Robotic Implementation. GitHub.
+> https://github.com/ankit-sengupta05/NeuroLink-Open-BCI-EEG-to-Text-Robotic-Implementation
+
+**License Restrictions:** Use of the source code is subject to the **Research & Non-Commercial Attribution License (RNCA)**. This explicitly prohibits commercial use without permission, while actively encouraging academic research, education, and personal experimentation.
+
 ## Quality checks
 
 ```bash

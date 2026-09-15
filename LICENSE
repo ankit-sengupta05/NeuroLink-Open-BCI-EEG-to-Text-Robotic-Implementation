@@ -1,0 +1,32 @@
+Research & Non-Commercial Attribution License (RNCA)
+
+Copyright (c) 2026 Ankit Sengupta. All rights reserved.
+
+This software, including its source code, algorithms, implementations, datasets, and documentation (collectively, the "Software"), is licensed under the following terms and conditions. By using, copying, modifying, or distributing the Software, you agree to these terms.
+
+1. PERMITTED USES
+Subject to the restrictions below, you are granted a non-exclusive, worldwide, royalty-free license to use, copy, modify, and distribute the Software solely for the following purposes:
+- Academic research and publication.
+- Educational and instructional use.
+- Personal experimentation and non-commercial projects.
+
+2. ACADEMIC ATTRIBUTION & CITATION
+Any academic publication, thesis, dissertation, presentation, or other scholarly work that uses, evaluates, or substantially derives from this Software must provide appropriate citation and attribution to the original author (Ankit Sengupta) and the source repository. Please refer to the CITATION.cff file for the required citation format.
+
+3. COMMERCIAL USE PROHIBITED
+You may NOT use this Software for any commercial purpose. Prohibited commercial uses include, but are not limited to:
+- Incorporation of the Software into a commercial product or service.
+- Use of the Software to provide a commercial service (e.g., SaaS, API access).
+- Sale, licensing, or commercial distribution of the Software or modified versions of the Software.
+- Use of the Software for proprietary research within a commercial entity.
+If you wish to use the Software for commercial purposes, you must obtain explicit written permission from the copyright holder.
+
+4. REDISTRIBUTION & DERIVATIVE WORKS
+If you distribute copies or modifications of the Software for permitted non-commercial purposes, you must:
+- Retain this license notice and copyright notice in all copies.
+- Clearly state any modifications made to the original Software.
+- License any derivative works under identical terms (RNCA).
+- Not claim authorship of the original Software.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
