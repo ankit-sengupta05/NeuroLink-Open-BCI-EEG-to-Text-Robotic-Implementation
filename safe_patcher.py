@@ -98,7 +98,7 @@ for nb_file in glob.glob("training/*.ipynb"):
                 idx_to_char = {v: k for k, v in char_to_idx.items()}
                 targets_text = []
                 for t in target:
-                    t_list = t if isinstance(t, list) else t[0].tolist()
+                    t_list = t.tolist() if hasattr(t, 'tolist') else t\n                    if isinstance(t_list, int):\n                        t_list = [t_list]
                     targets_text.append("".join([idx_to_char.get(c, "") for c in t_list]))
                 batch_recall = calculate_cer(preds, targets_text)
             epoch_recall += batch_recall
