@@ -4,7 +4,6 @@ import glob
 # 1. Update train_eeg.ipynb (Raw EEG)
 def patch_raw_eeg(source):
     new_source = []
-    in_loop = False
     for line in source:
         if 'for eeg, target in dataloader:' in line:
             new_source.append(line)
