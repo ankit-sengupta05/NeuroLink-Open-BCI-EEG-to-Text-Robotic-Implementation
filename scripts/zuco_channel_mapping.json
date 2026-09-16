@@ -1,527 +1,527 @@
 [
-    {
-        "matrix_index": 0,
-        "electrode_name": "E1",
-        "original_egi_number": 1
-    },
-    {
-        "matrix_index": 1,
-        "electrode_name": "E2",
-        "original_egi_number": 2
-    },
-    {
-        "matrix_index": 2,
-        "electrode_name": "E3",
-        "original_egi_number": 3
-    },
-    {
-        "matrix_index": 3,
-        "electrode_name": "E4",
-        "original_egi_number": 4
-    },
-    {
-        "matrix_index": 4,
-        "electrode_name": "E5",
-        "original_egi_number": 5
-    },
-    {
-        "matrix_index": 5,
-        "electrode_name": "E6",
-        "original_egi_number": 6
-    },
-    {
-        "matrix_index": 6,
-        "electrode_name": "E7",
-        "original_egi_number": 7
-    },
-    {
-        "matrix_index": 7,
-        "electrode_name": "E9",
-        "original_egi_number": 9
-    },
-    {
-        "matrix_index": 8,
-        "electrode_name": "E10",
-        "original_egi_number": 10
-    },
-    {
-        "matrix_index": 9,
-        "electrode_name": "Fz (E11)",
-        "original_egi_number": 11
-    },
-    {
-        "matrix_index": 10,
-        "electrode_name": "E12",
-        "original_egi_number": 12
-    },
-    {
-        "matrix_index": 11,
-        "electrode_name": "E13",
-        "original_egi_number": 13
-    },
-    {
-        "matrix_index": 12,
-        "electrode_name": "E15",
-        "original_egi_number": 15
-    },
-    {
-        "matrix_index": 13,
-        "electrode_name": "E16",
-        "original_egi_number": 16
-    },
-    {
-        "matrix_index": 14,
-        "electrode_name": "E17",
-        "original_egi_number": 17
-    },
-    {
-        "matrix_index": 15,
-        "electrode_name": "E18",
-        "original_egi_number": 18
-    },
-    {
-        "matrix_index": 16,
-        "electrode_name": "E19",
-        "original_egi_number": 19
-    },
-    {
-        "matrix_index": 17,
-        "electrode_name": "E20",
-        "original_egi_number": 20
-    },
-    {
-        "matrix_index": 18,
-        "electrode_name": "E22",
-        "original_egi_number": 22
-    },
-    {
-        "matrix_index": 19,
-        "electrode_name": "E23",
-        "original_egi_number": 23
-    },
-    {
-        "matrix_index": 20,
-        "electrode_name": "E24",
-        "original_egi_number": 24
-    },
-    {
-        "matrix_index": 21,
-        "electrode_name": "E26",
-        "original_egi_number": 26
-    },
-    {
-        "matrix_index": 22,
-        "electrode_name": "E27",
-        "original_egi_number": 27
-    },
-    {
-        "matrix_index": 23,
-        "electrode_name": "E28",
-        "original_egi_number": 28
-    },
-    {
-        "matrix_index": 24,
-        "electrode_name": "E29",
-        "original_egi_number": 29
-    },
-    {
-        "matrix_index": 25,
-        "electrode_name": "E30",
-        "original_egi_number": 30
-    },
-    {
-        "matrix_index": 26,
-        "electrode_name": "E31",
-        "original_egi_number": 31
-    },
-    {
-        "matrix_index": 27,
-        "electrode_name": "E32",
-        "original_egi_number": 32
-    },
-    {
-        "matrix_index": 28,
-        "electrode_name": "E33",
-        "original_egi_number": 33
-    },
-    {
-        "matrix_index": 29,
-        "electrode_name": "E34",
-        "original_egi_number": 34
-    },
-    {
-        "matrix_index": 30,
-        "electrode_name": "E35",
-        "original_egi_number": 35
-    },
-    {
-        "matrix_index": 31,
-        "electrode_name": "C3 (E36)",
-        "original_egi_number": 36
-    },
-    {
-        "matrix_index": 32,
-        "electrode_name": "E37",
-        "original_egi_number": 37
-    },
-    {
-        "matrix_index": 33,
-        "electrode_name": "E38",
-        "original_egi_number": 38
-    },
-    {
-        "matrix_index": 34,
-        "electrode_name": "E39",
-        "original_egi_number": 39
-    },
-    {
-        "matrix_index": 35,
-        "electrode_name": "E40",
-        "original_egi_number": 40
-    },
-    {
-        "matrix_index": 36,
-        "electrode_name": "E41",
-        "original_egi_number": 41
-    },
-    {
-        "matrix_index": 37,
-        "electrode_name": "E42",
-        "original_egi_number": 42
-    },
-    {
-        "matrix_index": 38,
-        "electrode_name": "E44",
-        "original_egi_number": 44
-    },
-    {
-        "matrix_index": 39,
-        "electrode_name": "E45",
-        "original_egi_number": 45
-    },
-    {
-        "matrix_index": 40,
-        "electrode_name": "E46",
-        "original_egi_number": 46
-    },
-    {
-        "matrix_index": 41,
-        "electrode_name": "E47",
-        "original_egi_number": 47
-    },
-    {
-        "matrix_index": 42,
-        "electrode_name": "E50",
-        "original_egi_number": 50
-    },
-    {
-        "matrix_index": 43,
-        "electrode_name": "E51",
-        "original_egi_number": 51
-    },
-    {
-        "matrix_index": 44,
-        "electrode_name": "E52",
-        "original_egi_number": 52
-    },
-    {
-        "matrix_index": 45,
-        "electrode_name": "E53",
-        "original_egi_number": 53
-    },
-    {
-        "matrix_index": 46,
-        "electrode_name": "E54",
-        "original_egi_number": 54
-    },
-    {
-        "matrix_index": 47,
-        "electrode_name": "E55",
-        "original_egi_number": 55
-    },
-    {
-        "matrix_index": 48,
-        "electrode_name": "E57",
-        "original_egi_number": 57
-    },
-    {
-        "matrix_index": 49,
-        "electrode_name": "E58",
-        "original_egi_number": 58
-    },
-    {
-        "matrix_index": 50,
-        "electrode_name": "E59",
-        "original_egi_number": 59
-    },
-    {
-        "matrix_index": 51,
-        "electrode_name": "E60",
-        "original_egi_number": 60
-    },
-    {
-        "matrix_index": 52,
-        "electrode_name": "E61",
-        "original_egi_number": 61
-    },
-    {
-        "matrix_index": 53,
-        "electrode_name": "Pz (E62)",
-        "original_egi_number": 62
-    },
-    {
-        "matrix_index": 54,
-        "electrode_name": "E64",
-        "original_egi_number": 64
-    },
-    {
-        "matrix_index": 55,
-        "electrode_name": "E65",
-        "original_egi_number": 65
-    },
-    {
-        "matrix_index": 56,
-        "electrode_name": "E66",
-        "original_egi_number": 66
-    },
-    {
-        "matrix_index": 57,
-        "electrode_name": "E67",
-        "original_egi_number": 67
-    },
-    {
-        "matrix_index": 58,
-        "electrode_name": "E69",
-        "original_egi_number": 69
-    },
-    {
-        "matrix_index": 59,
-        "electrode_name": "E70",
-        "original_egi_number": 70
-    },
-    {
-        "matrix_index": 60,
-        "electrode_name": "E71",
-        "original_egi_number": 71
-    },
-    {
-        "matrix_index": 61,
-        "electrode_name": "E72",
-        "original_egi_number": 72
-    },
-    {
-        "matrix_index": 62,
-        "electrode_name": "E74",
-        "original_egi_number": 74
-    },
-    {
-        "matrix_index": 63,
-        "electrode_name": "Oz (E75)",
-        "original_egi_number": 75
-    },
-    {
-        "matrix_index": 64,
-        "electrode_name": "E76",
-        "original_egi_number": 76
-    },
-    {
-        "matrix_index": 65,
-        "electrode_name": "E77",
-        "original_egi_number": 77
-    },
-    {
-        "matrix_index": 66,
-        "electrode_name": "E78",
-        "original_egi_number": 78
-    },
-    {
-        "matrix_index": 67,
-        "electrode_name": "E79",
-        "original_egi_number": 79
-    },
-    {
-        "matrix_index": 68,
-        "electrode_name": "E80",
-        "original_egi_number": 80
-    },
-    {
-        "matrix_index": 69,
-        "electrode_name": "E82",
-        "original_egi_number": 82
-    },
-    {
-        "matrix_index": 70,
-        "electrode_name": "E83",
-        "original_egi_number": 83
-    },
-    {
-        "matrix_index": 71,
-        "electrode_name": "E84",
-        "original_egi_number": 84
-    },
-    {
-        "matrix_index": 72,
-        "electrode_name": "E85",
-        "original_egi_number": 85
-    },
-    {
-        "matrix_index": 73,
-        "electrode_name": "E86",
-        "original_egi_number": 86
-    },
-    {
-        "matrix_index": 74,
-        "electrode_name": "E87",
-        "original_egi_number": 87
-    },
-    {
-        "matrix_index": 75,
-        "electrode_name": "E89",
-        "original_egi_number": 89
-    },
-    {
-        "matrix_index": 76,
-        "electrode_name": "E90",
-        "original_egi_number": 90
-    },
-    {
-        "matrix_index": 77,
-        "electrode_name": "E91",
-        "original_egi_number": 91
-    },
-    {
-        "matrix_index": 78,
-        "electrode_name": "E92",
-        "original_egi_number": 92
-    },
-    {
-        "matrix_index": 79,
-        "electrode_name": "E93",
-        "original_egi_number": 93
-    },
-    {
-        "matrix_index": 80,
-        "electrode_name": "E95",
-        "original_egi_number": 95
-    },
-    {
-        "matrix_index": 81,
-        "electrode_name": "E96",
-        "original_egi_number": 96
-    },
-    {
-        "matrix_index": 82,
-        "electrode_name": "E97",
-        "original_egi_number": 97
-    },
-    {
-        "matrix_index": 83,
-        "electrode_name": "E98",
-        "original_egi_number": 98
-    },
-    {
-        "matrix_index": 84,
-        "electrode_name": "E100",
-        "original_egi_number": 100
-    },
-    {
-        "matrix_index": 85,
-        "electrode_name": "E101",
-        "original_egi_number": 101
-    },
-    {
-        "matrix_index": 86,
-        "electrode_name": "E102",
-        "original_egi_number": 102
-    },
-    {
-        "matrix_index": 87,
-        "electrode_name": "E103",
-        "original_egi_number": 103
-    },
-    {
-        "matrix_index": 88,
-        "electrode_name": "C4 (E104)",
-        "original_egi_number": 104
-    },
-    {
-        "matrix_index": 89,
-        "electrode_name": "E105",
-        "original_egi_number": 105
-    },
-    {
-        "matrix_index": 90,
-        "electrode_name": "E106",
-        "original_egi_number": 106
-    },
-    {
-        "matrix_index": 91,
-        "electrode_name": "E108",
-        "original_egi_number": 108
-    },
-    {
-        "matrix_index": 92,
-        "electrode_name": "E109",
-        "original_egi_number": 109
-    },
-    {
-        "matrix_index": 93,
-        "electrode_name": "E110",
-        "original_egi_number": 110
-    },
-    {
-        "matrix_index": 94,
-        "electrode_name": "E111",
-        "original_egi_number": 111
-    },
-    {
-        "matrix_index": 95,
-        "electrode_name": "E112",
-        "original_egi_number": 112
-    },
-    {
-        "matrix_index": 96,
-        "electrode_name": "E114",
-        "original_egi_number": 114
-    },
-    {
-        "matrix_index": 97,
-        "electrode_name": "E115",
-        "original_egi_number": 115
-    },
-    {
-        "matrix_index": 98,
-        "electrode_name": "E116",
-        "original_egi_number": 116
-    },
-    {
-        "matrix_index": 99,
-        "electrode_name": "E117",
-        "original_egi_number": 117
-    },
-    {
-        "matrix_index": 100,
-        "electrode_name": "E118",
-        "original_egi_number": 118
-    },
-    {
-        "matrix_index": 101,
-        "electrode_name": "E121",
-        "original_egi_number": 121
-    },
-    {
-        "matrix_index": 102,
-        "electrode_name": "E122",
-        "original_egi_number": 122
-    },
-    {
-        "matrix_index": 103,
-        "electrode_name": "E123",
-        "original_egi_number": 123
-    },
-    {
-        "matrix_index": 104,
-        "electrode_name": "E124",
-        "original_egi_number": 124
-    }
+  {
+    "matrix_index": 0,
+    "electrode_name": "E1",
+    "original_egi_number": 1
+  },
+  {
+    "matrix_index": 1,
+    "electrode_name": "E2",
+    "original_egi_number": 2
+  },
+  {
+    "matrix_index": 2,
+    "electrode_name": "E3",
+    "original_egi_number": 3
+  },
+  {
+    "matrix_index": 3,
+    "electrode_name": "E4",
+    "original_egi_number": 4
+  },
+  {
+    "matrix_index": 4,
+    "electrode_name": "E5",
+    "original_egi_number": 5
+  },
+  {
+    "matrix_index": 5,
+    "electrode_name": "E6",
+    "original_egi_number": 6
+  },
+  {
+    "matrix_index": 6,
+    "electrode_name": "E7",
+    "original_egi_number": 7
+  },
+  {
+    "matrix_index": 7,
+    "electrode_name": "E9",
+    "original_egi_number": 9
+  },
+  {
+    "matrix_index": 8,
+    "electrode_name": "E10",
+    "original_egi_number": 10
+  },
+  {
+    "matrix_index": 9,
+    "electrode_name": "Fz (E11)",
+    "original_egi_number": 11
+  },
+  {
+    "matrix_index": 10,
+    "electrode_name": "E12",
+    "original_egi_number": 12
+  },
+  {
+    "matrix_index": 11,
+    "electrode_name": "E13",
+    "original_egi_number": 13
+  },
+  {
+    "matrix_index": 12,
+    "electrode_name": "E15",
+    "original_egi_number": 15
+  },
+  {
+    "matrix_index": 13,
+    "electrode_name": "E16",
+    "original_egi_number": 16
+  },
+  {
+    "matrix_index": 14,
+    "electrode_name": "E17",
+    "original_egi_number": 17
+  },
+  {
+    "matrix_index": 15,
+    "electrode_name": "E18",
+    "original_egi_number": 18
+  },
+  {
+    "matrix_index": 16,
+    "electrode_name": "E19",
+    "original_egi_number": 19
+  },
+  {
+    "matrix_index": 17,
+    "electrode_name": "E20",
+    "original_egi_number": 20
+  },
+  {
+    "matrix_index": 18,
+    "electrode_name": "E22",
+    "original_egi_number": 22
+  },
+  {
+    "matrix_index": 19,
+    "electrode_name": "E23",
+    "original_egi_number": 23
+  },
+  {
+    "matrix_index": 20,
+    "electrode_name": "E24",
+    "original_egi_number": 24
+  },
+  {
+    "matrix_index": 21,
+    "electrode_name": "E26",
+    "original_egi_number": 26
+  },
+  {
+    "matrix_index": 22,
+    "electrode_name": "E27",
+    "original_egi_number": 27
+  },
+  {
+    "matrix_index": 23,
+    "electrode_name": "E28",
+    "original_egi_number": 28
+  },
+  {
+    "matrix_index": 24,
+    "electrode_name": "E29",
+    "original_egi_number": 29
+  },
+  {
+    "matrix_index": 25,
+    "electrode_name": "E30",
+    "original_egi_number": 30
+  },
+  {
+    "matrix_index": 26,
+    "electrode_name": "E31",
+    "original_egi_number": 31
+  },
+  {
+    "matrix_index": 27,
+    "electrode_name": "E32",
+    "original_egi_number": 32
+  },
+  {
+    "matrix_index": 28,
+    "electrode_name": "E33",
+    "original_egi_number": 33
+  },
+  {
+    "matrix_index": 29,
+    "electrode_name": "E34",
+    "original_egi_number": 34
+  },
+  {
+    "matrix_index": 30,
+    "electrode_name": "E35",
+    "original_egi_number": 35
+  },
+  {
+    "matrix_index": 31,
+    "electrode_name": "C3 (E36)",
+    "original_egi_number": 36
+  },
+  {
+    "matrix_index": 32,
+    "electrode_name": "E37",
+    "original_egi_number": 37
+  },
+  {
+    "matrix_index": 33,
+    "electrode_name": "E38",
+    "original_egi_number": 38
+  },
+  {
+    "matrix_index": 34,
+    "electrode_name": "E39",
+    "original_egi_number": 39
+  },
+  {
+    "matrix_index": 35,
+    "electrode_name": "E40",
+    "original_egi_number": 40
+  },
+  {
+    "matrix_index": 36,
+    "electrode_name": "E41",
+    "original_egi_number": 41
+  },
+  {
+    "matrix_index": 37,
+    "electrode_name": "E42",
+    "original_egi_number": 42
+  },
+  {
+    "matrix_index": 38,
+    "electrode_name": "E44",
+    "original_egi_number": 44
+  },
+  {
+    "matrix_index": 39,
+    "electrode_name": "E45",
+    "original_egi_number": 45
+  },
+  {
+    "matrix_index": 40,
+    "electrode_name": "E46",
+    "original_egi_number": 46
+  },
+  {
+    "matrix_index": 41,
+    "electrode_name": "E47",
+    "original_egi_number": 47
+  },
+  {
+    "matrix_index": 42,
+    "electrode_name": "E50",
+    "original_egi_number": 50
+  },
+  {
+    "matrix_index": 43,
+    "electrode_name": "E51",
+    "original_egi_number": 51
+  },
+  {
+    "matrix_index": 44,
+    "electrode_name": "E52",
+    "original_egi_number": 52
+  },
+  {
+    "matrix_index": 45,
+    "electrode_name": "E53",
+    "original_egi_number": 53
+  },
+  {
+    "matrix_index": 46,
+    "electrode_name": "E54",
+    "original_egi_number": 54
+  },
+  {
+    "matrix_index": 47,
+    "electrode_name": "E55",
+    "original_egi_number": 55
+  },
+  {
+    "matrix_index": 48,
+    "electrode_name": "E57",
+    "original_egi_number": 57
+  },
+  {
+    "matrix_index": 49,
+    "electrode_name": "E58",
+    "original_egi_number": 58
+  },
+  {
+    "matrix_index": 50,
+    "electrode_name": "E59",
+    "original_egi_number": 59
+  },
+  {
+    "matrix_index": 51,
+    "electrode_name": "E60",
+    "original_egi_number": 60
+  },
+  {
+    "matrix_index": 52,
+    "electrode_name": "E61",
+    "original_egi_number": 61
+  },
+  {
+    "matrix_index": 53,
+    "electrode_name": "Pz (E62)",
+    "original_egi_number": 62
+  },
+  {
+    "matrix_index": 54,
+    "electrode_name": "E64",
+    "original_egi_number": 64
+  },
+  {
+    "matrix_index": 55,
+    "electrode_name": "E65",
+    "original_egi_number": 65
+  },
+  {
+    "matrix_index": 56,
+    "electrode_name": "E66",
+    "original_egi_number": 66
+  },
+  {
+    "matrix_index": 57,
+    "electrode_name": "E67",
+    "original_egi_number": 67
+  },
+  {
+    "matrix_index": 58,
+    "electrode_name": "E69",
+    "original_egi_number": 69
+  },
+  {
+    "matrix_index": 59,
+    "electrode_name": "E70",
+    "original_egi_number": 70
+  },
+  {
+    "matrix_index": 60,
+    "electrode_name": "E71",
+    "original_egi_number": 71
+  },
+  {
+    "matrix_index": 61,
+    "electrode_name": "E72",
+    "original_egi_number": 72
+  },
+  {
+    "matrix_index": 62,
+    "electrode_name": "E74",
+    "original_egi_number": 74
+  },
+  {
+    "matrix_index": 63,
+    "electrode_name": "Oz (E75)",
+    "original_egi_number": 75
+  },
+  {
+    "matrix_index": 64,
+    "electrode_name": "E76",
+    "original_egi_number": 76
+  },
+  {
+    "matrix_index": 65,
+    "electrode_name": "E77",
+    "original_egi_number": 77
+  },
+  {
+    "matrix_index": 66,
+    "electrode_name": "E78",
+    "original_egi_number": 78
+  },
+  {
+    "matrix_index": 67,
+    "electrode_name": "E79",
+    "original_egi_number": 79
+  },
+  {
+    "matrix_index": 68,
+    "electrode_name": "E80",
+    "original_egi_number": 80
+  },
+  {
+    "matrix_index": 69,
+    "electrode_name": "E82",
+    "original_egi_number": 82
+  },
+  {
+    "matrix_index": 70,
+    "electrode_name": "E83",
+    "original_egi_number": 83
+  },
+  {
+    "matrix_index": 71,
+    "electrode_name": "E84",
+    "original_egi_number": 84
+  },
+  {
+    "matrix_index": 72,
+    "electrode_name": "E85",
+    "original_egi_number": 85
+  },
+  {
+    "matrix_index": 73,
+    "electrode_name": "E86",
+    "original_egi_number": 86
+  },
+  {
+    "matrix_index": 74,
+    "electrode_name": "E87",
+    "original_egi_number": 87
+  },
+  {
+    "matrix_index": 75,
+    "electrode_name": "E89",
+    "original_egi_number": 89
+  },
+  {
+    "matrix_index": 76,
+    "electrode_name": "E90",
+    "original_egi_number": 90
+  },
+  {
+    "matrix_index": 77,
+    "electrode_name": "E91",
+    "original_egi_number": 91
+  },
+  {
+    "matrix_index": 78,
+    "electrode_name": "E92",
+    "original_egi_number": 92
+  },
+  {
+    "matrix_index": 79,
+    "electrode_name": "E93",
+    "original_egi_number": 93
+  },
+  {
+    "matrix_index": 80,
+    "electrode_name": "E95",
+    "original_egi_number": 95
+  },
+  {
+    "matrix_index": 81,
+    "electrode_name": "E96",
+    "original_egi_number": 96
+  },
+  {
+    "matrix_index": 82,
+    "electrode_name": "E97",
+    "original_egi_number": 97
+  },
+  {
+    "matrix_index": 83,
+    "electrode_name": "E98",
+    "original_egi_number": 98
+  },
+  {
+    "matrix_index": 84,
+    "electrode_name": "E100",
+    "original_egi_number": 100
+  },
+  {
+    "matrix_index": 85,
+    "electrode_name": "E101",
+    "original_egi_number": 101
+  },
+  {
+    "matrix_index": 86,
+    "electrode_name": "E102",
+    "original_egi_number": 102
+  },
+  {
+    "matrix_index": 87,
+    "electrode_name": "E103",
+    "original_egi_number": 103
+  },
+  {
+    "matrix_index": 88,
+    "electrode_name": "C4 (E104)",
+    "original_egi_number": 104
+  },
+  {
+    "matrix_index": 89,
+    "electrode_name": "E105",
+    "original_egi_number": 105
+  },
+  {
+    "matrix_index": 90,
+    "electrode_name": "E106",
+    "original_egi_number": 106
+  },
+  {
+    "matrix_index": 91,
+    "electrode_name": "E108",
+    "original_egi_number": 108
+  },
+  {
+    "matrix_index": 92,
+    "electrode_name": "E109",
+    "original_egi_number": 109
+  },
+  {
+    "matrix_index": 93,
+    "electrode_name": "E110",
+    "original_egi_number": 110
+  },
+  {
+    "matrix_index": 94,
+    "electrode_name": "E111",
+    "original_egi_number": 111
+  },
+  {
+    "matrix_index": 95,
+    "electrode_name": "E112",
+    "original_egi_number": 112
+  },
+  {
+    "matrix_index": 96,
+    "electrode_name": "E114",
+    "original_egi_number": 114
+  },
+  {
+    "matrix_index": 97,
+    "electrode_name": "E115",
+    "original_egi_number": 115
+  },
+  {
+    "matrix_index": 98,
+    "electrode_name": "E116",
+    "original_egi_number": 116
+  },
+  {
+    "matrix_index": 99,
+    "electrode_name": "E117",
+    "original_egi_number": 117
+  },
+  {
+    "matrix_index": 100,
+    "electrode_name": "E118",
+    "original_egi_number": 118
+  },
+  {
+    "matrix_index": 101,
+    "electrode_name": "E121",
+    "original_egi_number": 121
+  },
+  {
+    "matrix_index": 102,
+    "electrode_name": "E122",
+    "original_egi_number": 122
+  },
+  {
+    "matrix_index": 103,
+    "electrode_name": "E123",
+    "original_egi_number": 123
+  },
+  {
+    "matrix_index": 104,
+    "electrode_name": "E124",
+    "original_egi_number": 124
+  }
 ]
